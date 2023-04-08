@@ -1,3 +1,3 @@
 (fp_lib_table
-  (lib (name "Library")(type "KiCad")(uri "D:/getahead-repo/ITR-2/lib/Library.pretty")(options "")(descr ""))
+  (lib (name "Library")(type "KiCad")(uri "./lib/Library.pretty")(options "")(descr ""))
 )
